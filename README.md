@@ -29,7 +29,7 @@ The WordPress `$wpdb->prepare()` function is **not** a true prepared statement i
 
 ---
 
-## 🛠️ Installation & Testing
+##  Installation & Testing
 
 > [!WARNING]
 > The **vulnerable** version is intentionally insecure. **DO NOT INSTALL OR RUN THIS ON PUBLIC SERVERS!** Use a local development environment for testing purposes.
