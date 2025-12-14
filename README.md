@@ -9,7 +9,7 @@ This repository is a practical demonstration that confronts a critical security 
 
 ---
 
-## 💡 The Core Problem: WordPress Database Handling
+##  The Core Problem: WordPress Database Handling
 
 Many developers unknowingly create insecure plugins because of a common misconception about the native `$wpdb->prepare()` method.
 
@@ -18,7 +18,7 @@ The WordPress `$wpdb->prepare()` function is **not** a true prepared statement i
 
 ---
 
-## ⚡ The Dangers Unpacked: Vulnerable vs. Secure
+##  The Dangers Unpacked: Vulnerable vs. Secure
 
 | Insecure (`vulnerable`) | Secure (`secure`) |
 | :--- | :--- |
@@ -69,7 +69,7 @@ The goal of this project is to provide a clear, undeniable demonstration of secu
 
 ---
 
-## 📚 Additional Resources
+##  Additional Resources
 
 -   [OWASP Top 10 – SQL Injection](https://owasp.org/www-project-top-ten/)
 -   [WordPress Plugin Developer Handbook – Security](https://developer.wordpress.org/plugins/security/)
@@ -77,7 +77,7 @@ The goal of this project is to provide a clear, undeniable demonstration of secu
 
 ---
 
-## ✍️ Final Note
+##  Final Note
 
 This project is a call to action for all developers: **If you handle public input, write your code with security in mind.** Your plugins are the guardians of your users' data. Don't let them be the weakest link.
 
